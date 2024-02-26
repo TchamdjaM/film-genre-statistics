@@ -7,7 +7,7 @@ Analyse de données de genre pour les films sortis entre 1995 et 2018.
 Cet ensemble de données fournit des statistiques de genre pour les films sortis entre 1995 et 2018. Il offre des informations détaillées sur divers aspects des films, tels que les revenus bruts, les billets vendus et les chiffres ajustés à l'inflation. Les colonnes comprennent des données sur le genre, l'année de sortie, le nombre de films, les revenus bruts, les billets vendus, le brut ajusté à l'inflation, le meilleur film de chaque genre et année, ainsi que les revenus bruts associés.
 
 ## Colonnes
-- Genre: Catégorie ou type de film (Catégorique)
+- Genre: Catégorie ou type de film (Catégoriel)
 - Année: Année de sortie des films (Numérique)
 - Films sortis: Nombre de films sortis dans un genre et une année spécifiques (Numérique)
 - Brut: Revenu brut total généré par les films dans un genre et une année spécifiques (Numérique)
